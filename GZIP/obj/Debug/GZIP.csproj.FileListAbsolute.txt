@@ -1,0 +1,7 @@
+D:\打个包回家\打个包回家\XYSniffer\GZIP\bin\Debug\GZIP.dll
+D:\打个包回家\打个包回家\XYSniffer\GZIP\bin\Debug\GZIP.pdb
+D:\打个包回家\打个包回家\XYSniffer\GZIP\bin\Debug\DeInterFace.dll
+D:\打个包回家\打个包回家\XYSniffer\GZIP\bin\Debug\DeInterFace.pdb
+D:\打个包回家\打个包回家\XYSniffer\GZIP\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\打个包回家\XYSniffer\GZIP\obj\Debug\GZIP.dll
+D:\打个包回家\打个包回家\XYSniffer\GZIP\obj\Debug\GZIP.pdb

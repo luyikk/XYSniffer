@@ -1,0 +1,20 @@
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\bin\Debug\QQ9XDeDll.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\bin\Debug\QQ9XDeDll.pdb
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\bin\Debug\DeInterFace.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\bin\Debug\zlib.net.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\bin\Debug\DeInterFace.pdb
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\obj\Debug\QQ9XDeDll.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\QQ9XDeDll\obj\Debug\QQ9XDeDll.pdb
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\XYSniffer\bin\Debug\QQ9XDeDll.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\XYSniffer\bin\Debug\QQ9XDeDll.pdb
+D:\打个包回家\打个包回家\XYSniffer\QQ9XDeDll\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\打个包回家\XYSniffer\QQ9XDeDll\obj\Debug\QQ9XDeDll.dll
+D:\打个包回家\打个包回家\XYSniffer\QQ9XDeDll\obj\Debug\QQ9XDeDll.pdb
+D:\打个包回家\打个包回家\XYSniffer\XYSniffer\bin\Debug\QQ9XDeDll.dll
+D:\打个包回家\打个包回家\XYSniffer\XYSniffer\bin\Debug\QQ9XDeDll.pdb
+D:\打个包回家\XYSniffer\XYSniffer\bin\Debug\QQ9XDeDll.dll
+D:\打个包回家\XYSniffer\XYSniffer\bin\Debug\QQ9XDeDll.pdb
+D:\打个包回家\XYSniffer\QQ9XDeDll\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\XYSniffer\QQ9XDeDll\obj\Debug\QQ9XDeDll.dll
+D:\打个包回家\XYSniffer\QQ9XDeDll\obj\Debug\QQ9XDeDll.pdb

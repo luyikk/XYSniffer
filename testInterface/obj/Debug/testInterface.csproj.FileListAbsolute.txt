@@ -1,0 +1,19 @@
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\testInterface\bin\Debug\testInterface.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\testInterface\bin\Debug\testInterface.pdb
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\testInterface\bin\Debug\DeInterFace.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\testInterface\bin\Debug\DeInterFace.pdb
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\testInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\testInterface\obj\Debug\testInterface.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\testInterface\obj\Debug\testInterface.pdb
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\XYSniffer\bin\Debug\testInterface.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\XYSniffer\bin\Debug\testInterface.pdb
+D:\打个包回家\打个包回家\XYSniffer\testInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\打个包回家\XYSniffer\testInterface\obj\Debug\testInterface.dll
+D:\打个包回家\打个包回家\XYSniffer\testInterface\obj\Debug\testInterface.pdb
+D:\打个包回家\打个包回家\XYSniffer\XYSniffer\bin\Debug\testInterface.dll
+D:\打个包回家\打个包回家\XYSniffer\XYSniffer\bin\Debug\testInterface.pdb
+D:\打个包回家\XYSniffer\XYSniffer\bin\Debug\testInterface.dll
+D:\打个包回家\XYSniffer\XYSniffer\bin\Debug\testInterface.pdb
+D:\打个包回家\XYSniffer\testInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\XYSniffer\testInterface\obj\Debug\testInterface.dll
+D:\打个包回家\XYSniffer\testInterface\obj\Debug\testInterface.pdb

@@ -1,0 +1,10 @@
+D:\打个包回家\XYSniffer\XYSniffer\bin\Debug\AMFDataOut.dll
+D:\打个包回家\XYSniffer\XYSniffer\bin\Debug\AMFDataOut.pdb
+D:\打个包回家\XYSniffer\AMFDataOut\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\XYSniffer\AMFDataOut\obj\Debug\AMFDataOut.dll
+D:\打个包回家\XYSniffer\AMFDataOut\obj\Debug\AMFDataOut.pdb
+D:\打个包回家\打个包回家\XYSniffer\XYSniffer\bin\Debug\AMFDataOut.dll
+D:\打个包回家\打个包回家\XYSniffer\XYSniffer\bin\Debug\AMFDataOut.pdb
+D:\打个包回家\打个包回家\XYSniffer\AMFDataOut\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\打个包回家\XYSniffer\AMFDataOut\obj\Debug\AMFDataOut.dll
+D:\打个包回家\打个包回家\XYSniffer\AMFDataOut\obj\Debug\AMFDataOut.pdb

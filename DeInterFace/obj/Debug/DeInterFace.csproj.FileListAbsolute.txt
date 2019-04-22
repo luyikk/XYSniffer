@@ -1,0 +1,15 @@
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\DeInterFace\bin\Debug\DeInterFace.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\DeInterFace\bin\Debug\DeInterFace.pdb
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\DeInterFace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\DeInterFace\obj\Debug\DeInterFace.dll
+C:\Users\200439\Documents\Visual Studio 2010\Projects\XYSniffer\DeInterFace\obj\Debug\DeInterFace.pdb
+D:\打个包回家\打个包回家\XYSniffer\DeInterFace\bin\Debug\DeInterFace.dll
+D:\打个包回家\打个包回家\XYSniffer\DeInterFace\bin\Debug\DeInterFace.pdb
+D:\打个包回家\打个包回家\XYSniffer\DeInterFace\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\打个包回家\XYSniffer\DeInterFace\obj\Debug\DeInterFace.dll
+D:\打个包回家\打个包回家\XYSniffer\DeInterFace\obj\Debug\DeInterFace.pdb
+D:\打个包回家\XYSniffer\DeInterFace\bin\Debug\DeInterFace.dll
+D:\打个包回家\XYSniffer\DeInterFace\bin\Debug\DeInterFace.pdb
+D:\打个包回家\XYSniffer\DeInterFace\obj\Debug\ResolveAssemblyReference.cache
+D:\打个包回家\XYSniffer\DeInterFace\obj\Debug\DeInterFace.dll
+D:\打个包回家\XYSniffer\DeInterFace\obj\Debug\DeInterFace.pdb
